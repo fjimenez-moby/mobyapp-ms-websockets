@@ -41,12 +41,3 @@ build/
 # Carpetas de compilación
 bin/
 **/bin/
-# Properties
-**/.env
-!**/.env.example
-**/dev.properties
-!**/dev.properties.example
-
-# Carpetas de compilación
-bin/
-**/bin/
